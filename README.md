@@ -15,4 +15,4 @@ Dr. Justin C. Bagley is an Assistant Professor of Biology at Jacksonville State 
 
 -   [American Association of Geographers (AAG)](https://community.aag.org/home) [Annual Meeting](https://aag-annualmeeting.secure-platform.com/a), virtual (online), February 25–March 1, 2022.
    -    Session: Biogeography and Animal Geographies, Virtual Poster Session, AAG Meeting, February 27, 2022.
-   -    See AAG Annual Meeting 2022 website for additional details (e.g. registration and attendance/schedule information).
+        -    See AAG Annual Meeting 2022 website for additional details (e.g. registration and attendance/schedule information).
